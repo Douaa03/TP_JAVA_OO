@@ -24,8 +24,8 @@ public class Main { //
         pointA.afficher();
 
     }*/
-     public static void main(String[] args){
-
+   /*  public static void main(String[] args){
+//exo3
          Point2 point = new Point2('B', 15.0);
          // Affichage des caractéristiques du point
          System.out.println("Avant effectuer la translation :");
@@ -36,6 +36,6 @@ public class Main { //
          System.out.println("Après effectuer la translation :");
          point.affiche();
      }
-
+*/
 
     }
